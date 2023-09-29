@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { UsuarioService }
+import { UsuarioService } from '..../usuarioService'
 
 @Component({
   selector: 'app-registro',
